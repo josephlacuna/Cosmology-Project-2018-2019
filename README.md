@@ -1,1 +1,3 @@
 # Cosmology-Project-2018-2019
+
+This project is from my summer internship at the University of Chicago, Kavli Institute for Cosmological Physics. The work here is for calibrating data from the PANSTARRS telescope, managing between multiple data releases and matching objects from different telescope observations. The goal was to understand a discrepancy in the filters which was made apparent when matching particular calibration objects which we understand to be true. The results of this project have been used in a co-authored publication (The Astrophysical Journal, Volume 881, Issue 1, article id. 19, 23 pp. (2019)) and have been presented at the 223rd American Astronomical Society Conference as a poster talk - the example of which is provided.
